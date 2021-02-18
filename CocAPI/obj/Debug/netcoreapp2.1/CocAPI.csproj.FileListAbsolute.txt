@@ -1,0 +1,15 @@
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.csproj.CoreCompileInputs.cache
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.AssemblyInfoInputs.cache
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.AssemblyInfo.cs
+C:\DEV\CocAPI\CocAPI\bin\Debug\netcoreapp2.1\CocAPI.deps.json
+C:\DEV\CocAPI\CocAPI\bin\Debug\netcoreapp2.1\CocAPI.runtimeconfig.json
+C:\DEV\CocAPI\CocAPI\bin\Debug\netcoreapp2.1\CocAPI.runtimeconfig.dev.json
+C:\DEV\CocAPI\CocAPI\bin\Debug\netcoreapp2.1\CocAPI.dll
+C:\DEV\CocAPI\CocAPI\bin\Debug\netcoreapp2.1\CocAPI.pdb
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.csprojAssemblyReference.cache
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.RazorAssemblyInfo.cache
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.RazorAssemblyInfo.cs
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.RazorTargetAssemblyInfo.cache
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.dll
+C:\DEV\CocAPI\CocAPI\obj\Debug\netcoreapp2.1\CocAPI.pdb
